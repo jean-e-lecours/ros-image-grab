@@ -1,0 +1,3 @@
+bool im_read
+---
+uint8[] im_data
